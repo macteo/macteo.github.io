@@ -7,16 +7,15 @@
     <atom:link href="http://macteo.it/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Welcome to Jekyll!</title>
+        <title>Welcome!</title>
         
         
-          <description>&lt;p&gt;You&amp;#39;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+          <description>&lt;p&gt;Just a welcome post to avoid the default &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; post.&lt;/p&gt;
 </description>
         
-        <pubDate>Sun, 10 Nov 2013 11:18:00 +0100</pubDate>
-        <link>http://macteo.it/2013/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://macteo.it/2013/welcome-to-jekyll/</guid>
+        <pubDate>Wed, 16 Sep 2015 10:18:00 +0200</pubDate>
+        <link>http://macteo.it/2015/welcome/</link>
+        <guid isPermaLink="true">http://macteo.it/2015/welcome/</guid>
       </item>
     
   </channel>
