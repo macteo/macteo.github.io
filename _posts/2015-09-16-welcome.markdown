@@ -2,6 +2,9 @@
 title:  "Welcome!"
 date:   2015-09-16 08:18:00
 description: Welcome everybody
+tags:
+- jekyll
+- code
 ---
 
 Just a welcome post to avoid the default [Jekyll](http://jekyllrb.com) post.
